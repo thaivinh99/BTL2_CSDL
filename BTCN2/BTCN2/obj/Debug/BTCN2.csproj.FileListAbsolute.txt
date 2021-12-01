@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\bin\Debug\BTCN2.exe.config
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\bin\Debug\BTCN2.exe
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\bin\Debug\BTCN2.pdb
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.Properties.Resources.resources
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.exe
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.pdb
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.BookEdit.resources
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.Login.resources
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.Timkiem.resources
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.Timkiemthongtin.resources
+C:\Users\Admin\Desktop\He co so du lieu\BTL2\BTCN2\BTCN2\obj\Debug\BTCN2.Trangchu.resources
